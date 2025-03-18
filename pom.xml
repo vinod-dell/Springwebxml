@@ -9,7 +9,6 @@
 	<name>demo</name>
 	<packaging>jar</packaging>
 
-	<name>springboot-with-webxml</name>
 	<description>Spring Boot showcase with web.xml</description>
 
 	<parent>
